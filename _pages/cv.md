@@ -17,11 +17,18 @@ Education
 
 Work experience
 ======
+* Oct. 2025 - June. 2025: Visiting PhD Researcher
+  * Alan Turing Institute
+* Jul. 2025 - Sept. 2025: Project Research Intern
+  * Meituan
 * Spring 2023: Teaching Assistant
   * Tsinghua University
 
 Awards and Scholarships
 ======
+* University of Oxford
+  * Alan Turing Institute Enrichment Scheme and Access Fund, 15 students in 2025 cohort, Oct. 2025 
+  * COSF, 15 students in 2025 cohort, Aug. 2025
 * Tsinghua University
   * Outstanding Students, Awarded to students with comprehensive outstanding performance (2% in University), Oct. 2023
   * Comprehensive Scholarship, Awarded to students with comprehensive outstanding performance (2% in Department), Oct. 2023    
@@ -43,5 +50,6 @@ Skills
 ======
 * Languages: Mandarin (Native), English (Professional Working Proficiency)
 * Programming: Python, Matlab, C/C++
-* Tools: Gurobi, Cplex, CVXPY, Pytorch, Keil
+* Tools: Git, Gurobi, Cplex, CVXPY, Pytorch, Keil
 * Hobbies: Badminton, Football, Violin
+* Techs: Diffusion, Optimization, Control Theory, Generative Models, VLA
