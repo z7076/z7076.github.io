@@ -33,6 +33,8 @@ Patent
 
 Presentation
 ======
+* **J. Zhang**, L. Zhao, A. Papachristodoulou, J. Umenberger. Constrained Diffusers for Safe Planning and Control. (UKACC PhD Showcase 2025) 
+
 * G. Sang, J. He, H. Yang, **J. Zhang**. Safetech Belt: Safer Driving in the Smart Living Era. (Poster in TBSI Retreat, 2023)
 
 * Z. Wang, **J. Zhang**, J. He, G. Xu, C. Wang. Smart Home——An Intelligent Life Scenario Application Based on Wearable Devices and Deep Reinforcement Learning. (Poster in TBSI Retreat, 2022)

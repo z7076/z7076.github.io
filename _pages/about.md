@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year DPhil student at Control Group from University of Oxford, advised by Prof. Antonis Papachristodoulou and Prof. Jack Umenberger.  
+I am currently a DPhil student at Control Group from University of Oxford, advised by Prof. Antonis Papachristodoulou and Prof. Jack Umenberger.  
 <!-- My research interests lie in system control and optimization. I am currently working on safe data-driven control on voltage and frequency regulation in power systems.   -->
 
 In 2024, I graduated from [Tsinghua University](https://www.tsinghua.edu.cn/en/) with a Master's degree in Electrical Engineering. I was a student at the Smart Grid and Renewable Energy Lab from [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/), advised by [Prof. Yinliang Xu](https://www.tbsi.edu.cn/xyl/main.htm).
@@ -17,7 +17,9 @@ In 2021, I graduated from [Harbin Institute of Technology](http://en.hit.edu.cn/
 
 News
 ======
-* Oct 2025, I was excited to share that I officially joined the [Alan Turing Institute](https://www.turing.ac.uk/) 2025 Enrichment Scheme as a visiting PhD researcher!
+* Oct 2025, I presented my work "[Constrained Diffusers for Safe Planning and Control](https://arxiv.org/abs/2506.12544) at [UKACC](https://ukacc.sites.sheffield.ac.uk/) PhD Showcase!
+
+* Oct 2025, I was excited to share that I officially joined the [Alan Turing Institute](https://www.turing.ac.uk/) 2025 Enrichment Scheme!
 
 * Sept 2025, our paper "[Constrained Diffusers for Safe Planning and Control](https://arxiv.org/abs/2506.12544)" has been accepted by NeurIPS 2025!
 
