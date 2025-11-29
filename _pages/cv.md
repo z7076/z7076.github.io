@@ -39,12 +39,12 @@ Awards and Scholarships
   * Enterprise (JL MAG Rare-Earth Co., Ltd.) Scholarship, Awarded to students with excellent academic performance (2 students per year in Department), Nov. 2019
   * The People Scholarship, Awarded to students with excellent academic performance (5%-20% in Department), Awarded 7 times Sept. 2017 – Jun. 2021
     
-Service and leadership
+<!-- Service and leadership
 ======
 * Director, Liaison and Training Center, Student Union, Tsinghua University, 2022-2023
 * Member, Office, Student Union, Tsinghua University, 2021-2022
 * Secretary, Office, Student Union, Harbin Institute of Technology, 2018-2019
-* Member, Sports Department, Student Union, Harbin Institute of Technology, 2017-2018
+* Member, Sports Department, Student Union, Harbin Institute of Technology, 2017-2018 -->
 
 Skills
 ======
