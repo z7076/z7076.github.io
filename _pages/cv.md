@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* Oct. 2025 - June. 2025: Visiting PhD Researcher
+* Oct. 2025 - June. 2025: Visiting student
   * Alan Turing Institute
-* Jul. 2025 - Sept. 2025: Project Research Intern
+* Jul. 2025 - Sept. 2025: Intern
   * Meituan
 * Spring 2023: Teaching Assistant
   * Tsinghua University
