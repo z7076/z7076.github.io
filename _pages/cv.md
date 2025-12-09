@@ -15,11 +15,11 @@ Education
 * M.S. in Electrical Engineering, Tsinghua University, 2021-2024
 * B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2017-2021
 
-Work experience
+Professional experience
 ======
-* Oct. 2025 - June. 2025: Visiting student
+* Oct. 2025 - June. 2025
   * Alan Turing Institute
-* Jul. 2025 - Sept. 2025: Intern
+* Jul. 2025 - Sept. 2025
   * Meituan
 * Spring 2023: Teaching Assistant
   * Tsinghua University
