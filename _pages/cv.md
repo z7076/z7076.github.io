@@ -17,7 +17,7 @@ Education
 
 Professional experience
 ======
-* Oct. 2025 - June. 2025
+* Oct. 2025 - June. 2026
   * Alan Turing Institute
 * Jul. 2025 - Sept. 2025
   * Meituan
